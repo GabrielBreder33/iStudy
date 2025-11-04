@@ -35,8 +35,9 @@ O **iStudy** é uma plataforma educacional moderna desenvolvida com as mais rece
 
 </div>
 
-## �️ Tech Stack
+## 🛠️ Tech Stack
 
+<div align="center">
 
 ### Core
 
@@ -61,7 +62,7 @@ O **iStudy** é uma plataforma educacional moderna desenvolvida com as mais rece
 
 </div>
 
-## � Getting Started
+## 🚀 Getting Started
 
 ### Pré-requisitos
 
