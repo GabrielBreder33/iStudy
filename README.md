@@ -196,7 +196,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 **Gabriel Breder**
 
 [![GitHub](https://img.shields.io/badge/GitHub-GabrielBreder33-181717?style=for-the-badge&logo=github)](https://github.com/GabrielBreder33)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gabrielbreder33)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-breder33/)
 
 </div>
 
